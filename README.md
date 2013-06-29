@@ -1,4 +1,4 @@
-lib_css
+lib
 =======
 
-some basic css templates
+some basic lib templates
